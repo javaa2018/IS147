@@ -1,0 +1,15 @@
+/*
+*Gabrielle Watson
+*watson7@umbc.edu
+*/
+
+public class Lab0
+ { //opens class
+   public static void main(String[] args)
+    { //opens the main method
+      System.out.println("Gabrielle Watson");
+      System.out.println("watson7@umbc.edu");
+      System.out.println("Information Systems");
+         
+   }
+}
